@@ -1,0 +1,11 @@
+
+The gmm is trained with:
+
+1) mfcc features(13)
+2) mfcc+delta features(26)
+3) mfcc+delta+delta features(39)
+
+The number of components in gmm were:
+2, 4 , 6, 10, 30
+
+
